@@ -6,6 +6,8 @@ A modern and responsive chat interface built using React.js, designed as a found
 
 The application demonstrates how to structure a scalable chat UI with reusable components and mock conversation data. While it currently functions as a frontend prototype, it is intentionally engineered to support future enhancements such as natural language processing, backend integration, and automated response generation.
 
+<img width="1532" height="852" alt="Image" src="https://github.com/user-attachments/assets/36d15c4c-cabe-4a85-a52d-d576e3d24bef" />
+
 # ChatBot Interface — React Frontend
 
 A modern and responsive chat interface built using React.js, designed as a foundation for developing interactive chatbot applications. This project showcases clean component architecture, real-time message rendering, and streamlined user input handling, forming a strong base for integrating AI-powered conversational systems.
