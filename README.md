@@ -1,3 +1,5 @@
+![React](https://img.shields.io/badge/react-white?style=for-the-badge) ![Vites](https://img.shields.io/badge/vitest-46CA62?style=for-the-badge)
+
 # ChatBot Interface — React Frontend
 
 A modern and responsive chat interface built using React.js, designed as a foundation for developing interactive chatbot applications. This project showcases clean component architecture, real-time message rendering, and streamlined user input handling, forming a strong base for integrating AI-powered conversational systems.
